@@ -1,2 +1,5 @@
 # HCEF-Structured-Medical-Learning
-Reproducible implementation of the Hybrid Contrastive–Ensemble Framework (HCE-F) for structured medical tabular learning, including preprocessing, feature auditing, refined subset evaluation, ablation studies, and external cross-dataset generalization experiments.
+
+Reproducible implementation of the Hybrid Contrastive–Ensemble Framework (HCE-F) for structured medical tabular learning. The repository contains a complete deterministic experimental pipeline including dataset repair, preprocessing, modeling-ready dataset generation, deep feature auditing, refined feature-subset construction, baseline benchmarking, tensorized residual representation learning, supervised contrastive embedding optimization, probabilistic ensemble fusion, formal ablation analysis, and external cross-dataset generalization experiments.
+
+The project was developed to support transparent and reproducible evaluation of structured medical machine-learning systems under PeerJ AI reproducibility requirements. All experiments operate exclusively on structured tabular medical datasets and automatically generate reproducibility manifests, machine-readable metrics, publication-ready figures, evaluation summaries, logs, and experiment-specific README reports.
